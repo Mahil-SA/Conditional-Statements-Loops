@@ -2,7 +2,7 @@
 This repository contains experiments 5,6 which are related to the __conditional statements__ in C++.
 
 # If-Else & Switchcase Statements
-# EXPERIMENT 6 (Program 1):
+# EXPERIMENT 6:
 ## Aim: 
 To study and implement C++ decision making statements (Loops)
 ## Theory: 
