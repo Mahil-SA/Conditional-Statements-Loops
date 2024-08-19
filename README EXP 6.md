@@ -6,7 +6,15 @@ This repository contains experiments 5,6 which are related to the __conditional 
 ## Aim: 
 To study and implement C++ decision making statements (Loops)
 ## Theory: 
+In C++, loops are used to execute a block of code repeatedly.
 
+1. *for* loop: Ideal for iterating a known number of times. It includes initialization, condition, and increment/decrement in a single line.
+2. Nested loop: A nested loop is simply a loop inside another loop.
+3. Nested *for* loop: A for loop inside another for loop, often used for multidimensional data like matrices. Each inner loop completes all its iterations for every single iteration of the outer loop.
+4. *while* loop: Executes a block of code repeatedly as long as the specified condition is true. The condition is checked before each iteration.
+5. *do-while* loop: Similar to while, but the condition is checked after each iteration, ensuring the loop runs at least once.
+
+These loops provide flexibility in controlling the flow of a program based on the needs of the task at hand.
 
 ~~~
 CODE:
