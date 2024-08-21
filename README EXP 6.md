@@ -145,3 +145,6 @@ int main()
     return 0;
 }
 ~~~
+
+# Conclusion
+In this experiment we learnt about loops and the various types of loops like for loop, while loop, do-while loop and nested loops in C++.
