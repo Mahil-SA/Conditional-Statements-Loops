@@ -172,3 +172,6 @@ int main()
     return 0;
 }
 ~~~
+
+# Conclusion
+In this program we have learnt how to use conditional if-else statements and also used switch case in our programs to find grades and solve simple calculator problems.
