@@ -175,3 +175,22 @@ int main()
 
 # Conclusion
 In this program we have learnt how to use conditional if-else statements and also used switch case in our programs to find grades and solve simple calculator problems.
+
+# Outputs
+
+## Experiment 7:
+
+### Program 1 (Program to check if password is correct):
+![image](https://github.com/user-attachments/assets/15826e8a-4c36-4b02-90d5-f8fe0b31fd91)
+
+### Program 2 (Program to check grades):
+![image](https://github.com/user-attachments/assets/37bd7240-9a21-48fc-927a-08d6818f26fa)
+
+### Program 3 (Calculator):
+![image](https://github.com/user-attachments/assets/41a7ddf3-f8ea-4bb3-be66-355aded92433)
+
+### Program 4 (Weekly calendar):
+![image](https://github.com/user-attachments/assets/10c4e067-d4f0-417e-b7e0-515277c4fc99)
+
+### Program 5 (Check for leap year):
+![image](https://github.com/user-attachments/assets/7c91d5bb-f68b-4ab2-a2cf-4003e2b92ee2)
