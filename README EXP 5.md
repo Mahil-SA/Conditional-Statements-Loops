@@ -178,7 +178,7 @@ In this program we have learnt how to use conditional if-else statements and als
 
 # Outputs
 
-## Experiment 7:
+## Experiment 5:
 
 ### Program 1 (Program to check if password is correct):
 ![image](https://github.com/user-attachments/assets/15826e8a-4c36-4b02-90d5-f8fe0b31fd91)
