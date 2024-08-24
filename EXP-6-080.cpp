@@ -198,3 +198,32 @@ Enter the number of rows : 5
 7 8 9 10 
 11 12 13 14 15 
 */
+
+//Program 9 (To create Floyd series with C++.)
+#include<iostream>
+using namespace std;
+int main()
+{
+    int row, a=1;
+    cout<<"Enter the number of the rows: ";
+    cin>>row;
+    for(int i=0;i<row;i++)
+    {
+        for(int j=0;j<=i;j++)
+        {
+            cout<<a;
+            a++;
+        }
+        cout<<endl;
+    }
+    return 0;
+}
+
+//Output
+/*
+Enter the number of the rows: 4
+1
+23
+456
+78910
+*/
