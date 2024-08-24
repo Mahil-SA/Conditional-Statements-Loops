@@ -145,12 +145,30 @@ int main()
     return 0;
 }
 
-//Program 9 (Do-while)
+//Program 9 (Floyd Series)
+#include<iostream>
+using namespace std;
+int main()
+{
+    int row, a=1;
+    cout<<"Enter the number of the rows: ";
+    cin>>row;
+    for(int i=0;i<row;i++)
+    {
+        for(int j=0;j<=i;j++)
+        {
+            cout<<a;
+            a++;
+        }
+        cout<<endl;
+    }
+    return 0;
+}
 
 ~~~
 
 # Conclusion
-In this experiment we learnt about loops and the various types of loops like for loop, while loop, do-while loop and nested loops in C++.
+In this experiment we learnt about loops and the various types of loops like for loop, while loop, loop and nested loops in C++.
 
 ## Experiment 6:
 
@@ -178,4 +196,5 @@ In this experiment we learnt about loops and the various types of loops like for
 ### Program 8 (Star pattern with numbers):
 ![image](https://github.com/user-attachments/assets/f2c4d5e6-4df9-46c5-96ad-2318ac40ca23)
 
-### [Program 9 (Do-while loop):
+### [Program 9 (Floyd Series):
+![image](https://github.com/user-attachments/assets/8b7051f5-097c-4281-8642-4a49ce2723e6)
